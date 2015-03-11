@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "authors": [
+    "there123 <56491987@163.com>"
+  ],
+  "description": "only a test",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "d3": "~3.5.5",
+    "jquery": "~2.1.3"
+  }
+}
